@@ -1,0 +1,379 @@
+body
+{
+    margin: 0px;
+    padding: 0px;
+}
+.enavbar1
+{
+    width: 1346px;
+    height: 54px;
+    background: #262626;
+    box-sizing: border-box;
+}
+.enavbar1logo
+{
+    width: 152px;
+    height: 18px;
+    position: relative;
+    top: 16px;
+    left: 20px;
+    box-sizing: border-box;
+
+}
+.home1
+{
+    position: relative;
+    right: 120px;
+    border: none;
+    margin-left: 80px;
+    background: #FEF5EF;
+}
+.buyNow
+{
+    width: 94px;
+    height: 31px;
+    position: relative;
+    left: 1070px;
+    top: 12px;
+    background:#82b440;
+    border: solid,#82b440;
+    border-radius: 10%;
+    box-shadow: #f0ebeb;
+    font-size: 14px;
+    color: white;
+    box-sizing: border-box;
+
+}
+.enavbar2
+{
+    width: 1346px;
+    height: 80px;
+    background: #FEF5EF;
+    box-sizing: border-box;
+}
+.navBarImage
+{
+    width: 237px;
+    height: 69px;
+    position: relative;
+    top: 5px;
+    left: 10px;
+}
+.page
+{
+    width: 792px;
+    height: 80px;
+    position: relative;
+    left: 400px;
+    bottom: 40px;
+}
+a
+{
+    font-size: 16px;
+    text-decoration: none;
+    color: black;
+    font-weight: 750;
+    padding-left: 45px;
+    padding-right: 45px;
+    position: relative;
+    right: 90px;
+    font-family: Arial, Helvetica, sans-serif;
+    transition: 1s;
+}
+a:hover
+{
+    color: #F79837;
+}
+.Shop:hover
+{
+    color: #F79837;
+}
+.eShop
+{
+    background-image: url('https://andshop-vue.netlify.app/_nuxt/img/common_bg.03a52b4.png');
+    height: 282px;
+    position: relative;
+    bottom: 90px;
+    text-align: center;
+    box-sizing: border-box;
+
+}
+.Shop
+{
+    position: absolute;
+    left: 5px;
+    color: white;
+    font-size: 16px;
+    font-weight: 200;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.Shome
+{
+    position: relative;
+    top: 150px;
+    font-family: Arial, Helvetica, sans-serif;
+
+}
+.eshop
+{
+    position: relative;
+    left: 5px;
+    font-size: 17px;
+    color: #F79837;
+}
+.shop
+{
+    position: absolute;
+    left: 615px;
+    color: white;
+    top: 90px;
+    font-size: 36px;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 5px;
+}
+.fotos
+{
+    display: flex;
+}
+.buyModel
+{
+    width: 420px;
+    height: 520px;
+    position: relative;
+    top: 490px;
+    left: 25px;
+    margin-right: 20px;
+    margin-top: 40px;
+}
+.addToKart
+{
+    width: 80%;
+    height: 45px;
+    background: #fff;
+    color: black;
+    border-radius: 2px;
+    position: absolute;
+    left: 40px;
+    text-align: center;
+    padding-top: 15px;
+    box-sizing: border-box;
+    top: 430px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 400;
+    z-index: 0;
+}
+.foto
+{
+    width: 420px;
+    height: 494px;
+    background-image: url('https://andshop-vue.netlify.app/_nuxt/img/1.7190443.png');
+    transition: 1s;
+    z-index: 2;
+}
+.foto:hover
+{
+    width: 420px;
+    height: 494px;
+    background-image: url('https://andshop-vue.netlify.app/_nuxt/img/2.57e4309.png');
+    z-index: 1;
+}
+.selecet1
+{
+    width: 200px;
+    height: 45px;
+    padding: 12px;
+    font-size: 16px;
+    -webkit-appearance: none;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat 100%;
+    background-position: 170px;
+    background-size: 6%;
+    border: 1x solid;
+    position: relative;
+    top: 400px;
+    left: 20px;
+}
+.selekt2Div
+{
+    width: 300px;
+    position: relative;
+    top: 355px;
+    left: 1000px;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+.select2
+{
+    width: 200px;
+    height: 45px;
+    padding: 12px;
+    font-size: 16px;
+    -webkit-appearance: none;
+    background: url(http://cdn1.iconfinder.com/data/icons/cc_mono_icon_set/blacks/16x16/br_down.png) no-repeat 100%;
+    background-position: 170px;
+    background-size: 6%;
+    border: 1x solid;
+    box-sizing: border-box;
+}
+.text
+{
+    text-align: center;
+    margin-top: 10px;
+    font-size: 14px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+}
+.new
+{
+    width: 50px;
+    height: 25px;
+    position: absolute;
+    left: 20px;
+    top: 20px;
+    background: #007a58;
+    color: white;
+    padding-left: 7px;
+    padding-top: 3px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+    border-radius: 8%;
+}
+.altkisim
+{
+    width: 1346px;
+    height: 55px;
+    background: #000;
+    position: relative;
+}
+.p1
+{
+    color: white;
+    margin-left: 20px;
+    font-size: 16px;
+    font-weight: 600;
+
+}
+.p2
+{
+    color: #F78011;
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 10px;
+    font-size: 16px;
+    font-weight: 600;
+}
+.text2
+{
+    display: flex;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.kart
+{
+    position: relative;
+    left: 850px;
+    top: 15px;
+}
+.altkisim2
+{
+    position: relative;
+    top: 550px;
+    left: 20px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    color: rgba(0, 0, 0, 0.322);
+    font-weight: 580;
+    width: 420px;
+    height: 250pxpx;
+}
+.altkisim2a
+{
+    width: 308px;
+    height: 209px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    left: 600px;
+    top: 320px;
+}
+.h3a
+{
+    position: relative;
+    top: 30px;
+    color: black;
+    font-weight: 400;
+}
+.a3a
+{
+    color: rgba(0, 0, 0, 0.322);
+    font-weight: 600;
+    margin: 10px!important;
+}
+.altkisim2b
+{
+    width: 308px;
+    height: 209px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    position: relative;
+    left: 920px;
+    top: 90px;
+}
+.input1
+{
+    position: relative;
+    left: 1100px;
+    bottom: 190px;
+    min-height: 45px;
+    background: #fff;
+    border: 1px solid #ddd;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.p1email
+{
+    position: relative;
+    bottom: 105px;
+    left: 1100px;
+    min-height: 100px;
+    width: 200px;
+    font-size: 18px;
+    font-family: Arial, Helvetica, sans-serif;
+    box-sizing: border-box;
+}
+.buttonSendMail
+{
+    width: 150px;
+    height: 50px;
+    background: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    border: none;
+    position: relative;
+    left: 905px;
+    bottom: 120px;
+}
+.aLtkisim
+{
+    background: #F6F6F6;
+}
+/* FontAwsome */
+.size
+{
+    font-size: 20px;
+}
+.avsome
+{
+    width: 100px;
+    min-height: 100px;
+    position: relative;
+    left: 800px;
+    bottom: 20px;
+    margin: none;
+    display: flex;
+
+}
+.icon1
+{
+    margin:5px;
+    margin-bottom: 15px;
+}
